@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "b1615711fbd32cd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef64d93e3a096180",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff846cdbba03302a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "686d746baf78ed93",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9d9bdb9d74bdb72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71c1a32eae0113a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b68a36cf23334be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "34eb5d6ea8444e63",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c7cfa6264b90e33b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2974bea76411c38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5032959ff095999",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0252dc5b8c67d5c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0cc8d3171863253b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9ddc71ddb2415377",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ff846cdbba03302a",
+  "lastOpenFiles": [
+    "14_Source-Code/Swife/README.md",
+    "14_SlidePresentation.pdf",
+    "14_Report.pdf",
+    "README.md",
+    "Attachments",
+    "14_API-Documentation/14_API-Documentation.md"
+  ]
+}
