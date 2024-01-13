@@ -39,4 +39,10 @@ Hiện web app đã phần nào thành hình, tuy nhiên nhóm vẫn còn nhữn
 
 Feel free to contribute on this repository. This means a lot to us and keeps us going!
 # Contributors
+- Nguyễn Thị Hương Huế
+- Lê Phương
+- Phan Sĩ Nguyên
+- Lê Trọng Minh
+
+
 
